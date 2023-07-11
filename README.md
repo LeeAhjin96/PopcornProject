@@ -43,9 +43,9 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doni3134&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeahjin96&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doni3134&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeahjin96&langs_count=8)
 
 </div>
 
